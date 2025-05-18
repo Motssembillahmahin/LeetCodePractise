@@ -1,2 +1,2 @@
 # LeetCodePractise
-This repository is containing files which i practice in the Leetcode
+This repository is containing files which i practiced in the Leetcode
